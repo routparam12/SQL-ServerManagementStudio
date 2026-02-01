@@ -1,0 +1,2 @@
+# SQL-ServerManagementStudio
+QUERIES
